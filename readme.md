@@ -6,7 +6,7 @@
 
 Generador de códigos QR funcional creado con HTML, CSS y JavaScript. Convierte cualquier URL en un código QR descargable en formato PNG.
 
-## 🚀 Características
+##  Características
 - Genera códigos QR al instante
 - Diseño responsive y moderno
 - Opción para descargar el QR generado
