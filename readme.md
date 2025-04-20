@@ -1,4 +1,6 @@
-# 🔍 Generador QR Pro 
+# 🔍 Generador QR Pro
+
+[View Live Page](https://sandrodevx.github.io/QR-CODE-GEN/)
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square)
